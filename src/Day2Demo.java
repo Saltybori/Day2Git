@@ -22,8 +22,9 @@ public class Day2Demo {
 	//Another Comment
 	
 	
-	String firstName = "Jonny";
 	
+	String firstName = "Jonny";
+	int B = 200;
 	
 	
 }

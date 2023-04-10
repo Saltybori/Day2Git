@@ -21,4 +21,9 @@ public class Day2Demo {
 	
 	//Another Comment
 	
+	
+	String firstName = "Jonny";
+	
+	
+	
 }

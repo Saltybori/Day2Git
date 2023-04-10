@@ -17,4 +17,6 @@ public class Day2Demo {
 	*/
 	
 	
+	int A = 100;
+	
 }

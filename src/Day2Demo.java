@@ -27,4 +27,6 @@ public class Day2Demo {
 	int B = 200;
 	
 	
+	Int Num = 1000;
+	
 }

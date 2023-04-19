@@ -26,7 +26,10 @@ public class Day2Demo {
 	String firstName = "Jonny";
 	int B = 200;
 	
+	int Num = 1000;
 	
-	Int Num = 1000;
+	
+	
+
 	
 }
